@@ -42,4 +42,5 @@ com\example\campusmarketserver\service\UserService.class
 com\example\campusmarketserver\service\impl\PostServiceImpl.class
 com\example\campusmarketserver\service\ReportService.class
 com\example\campusmarketserver\mapper\PostMapper.class
+com\example\campusmarketserver\controller\UploadController.class
 com\example\campusmarketserver\entity\Report.class
